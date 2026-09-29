@@ -1,0 +1,6 @@
+const regularWash = 20;
+const detailWash = 40;
+
+console.log("the user will pay", regularWash);
+console.log("the user will pay", detailWash);
+console.log("the user will wash for free");
